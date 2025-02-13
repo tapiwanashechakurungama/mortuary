@@ -6,7 +6,9 @@ const Aside = () => {
       <div className="sidebar-info">
         <figure className="avatar-box">
           <img
-            src={"/images/declan id photo.jpg"}
+            src={
+              "https://media.licdn.com/dms/image/v2/D4E03AQEckjQoacAZmg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1688556069257?e=1744848000&v=beta&t=ASVZMWxrk1kmQ-htFpagwgs-goGkwmMZ34QA-xt6EHA"
+            }
             alt="Richard hanrick"
             width="80"
           />
