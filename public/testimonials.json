@@ -1,0 +1,24 @@
+
+[
+    {
+      "name": "Bryan vengwa",
+      "avatar": "/images/bryanvengwa.jpeg",
+      "testimonial": "Bryan is a Software engineering instructor @uncommon.org. You can contact him at bryan@uncommon.org"
+    },
+    {
+      "name": "Walter Gombarume",
+      "avatar": "/images/walter-gombarume.jpeg",
+      "testimonial": "Walter is the Head of education @uncommon.org. You can contact him at walter@uncommon.org"
+    },
+    {
+      "name": "Munyaradzi togarepi",
+      "avatar": "/images/Munya.jpg",
+      "testimonial": "Munyayaradzi togarepi is ceo @procode platforms where l worked as software development intern. You can contact him at Munyaradzitogarepi52@gmail.com"
+    },
+    {
+      "name": "Anna kambanga",
+      "avatar": "/images/kambanga.jpeg",
+      "testimonial": "Anna is a UX/UI design instructor @uncommon.org. You can contact him at anna@uncommon.org"
+    }
+  ]
+  

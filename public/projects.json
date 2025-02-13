@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "Skillhunt",
+      "category": "Applications",
+      "image": "./images/snipping new.PNG",
+      "href": "https://skillhuntjobs.netlify.app"
+    },
+    {
+      "id": 2,
+      "title": "Ecommerce website",
+      "category": "Web development",
+      "image": "images/ekomespro.png",
+      "href" : "https://ecomerce-site-taupe.vercel.app/"
+    },
+    {
+      "id": 3,
+      "title": "MovieApk",
+      "category": "Applications",
+      "image": "./images/movies.png",
+      "href" : "https://ecomerce-site-taupe.vercel.app/"
+    },
+    {
+      "id": 4,
+      "title": "Brawlhalla",
+      "category": "Web development",
+      "image": "./images/fruitweb.PNG",
+      "href" : "https://fruits-selling-tcj.netlify.app/"
+    },
+    {
+      "id": 5,
+      "title": "DSM.",
+      "category": "Web design",
+      "image": "images/resume cover.png",
+      "href" : "https://ai-resume-buider.vercel.app/"
+    },
+    {
+      "id": 6,
+      "title": "Watchsite",
+      "category": "Web design",
+      "image": "./images/watchsite.png",
+      "href" : "https://threejs-watchsite.vercel.app/"
+    },
+    {
+      "id": 7,
+      "title": "Summary",
+      "category": "Web development",
+      "image": "images/project-7.png"
+    },
+    {
+      "id": 8,
+      "title": "Task Manager",
+      "category": "Applications",
+      "image": "images/project-8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Arrival",
+      "category": "Web development",
+      "image": "images/project-9.png"
+    }
+  ]
+  
