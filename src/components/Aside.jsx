@@ -14,10 +14,10 @@ const Aside = () => {
 
           <div className="info-content">
             <h1 className="name" title="kudakwashe gudyanga">
-              Kudakwashe Gudyanga
+              Bryan Vengwa
             </h1>
 
-            <p className="title">Software Development</p>
+            <p className="title">Software Engineer</p>
           </div>
 
           <button className="info_more-btn" data-sidebar-btn>
